@@ -32,7 +32,7 @@ Great! That means I need to set plasma to the correct amount, whatever that may 
 
 After updating my Java Runtime with [these instructions](https://phoenixnap.com/kb/how-to-install-java-ubuntu) and [these instructions](https://docs.oracle.com/en/java/javase/16/install/installation-jdk-linux-platforms.html#GUID-ADC9C14A-5F51-4C32-802C-9639A947317F), and [setting up my $PATH](https://docs.oracle.com/cd/E19062-01/sun.mgmt.ctr36/819-5418/gaznb/index.html), I am ready to attempt to solve this challenge!
 
-![BowShock%2091f32cd309714fc8960fc3bb1b1a32d1/Untitled.png](/images/Bowshock-images/comment.png)
+![comment](/static/images/2021-07-27-BowShock/comment.png)
 
 The comment was indeed helpful. When I ran the file, I got this screen, prompting me to a "correct amount". Presumably, I will need to enter the correct number or numbers into this program to get the flag.
 
@@ -40,11 +40,11 @@ The comment was indeed helpful. When I ran the file, I got this screen, promptin
 
 Back to the disassembly. In the disassembled file, I see the following numbers:
 
-![BowShock%2091f32cd309714fc8960fc3bb1b1a32d1/Untitled%201.png](data/images/2021-07-27-BowShock/redbox.png)
+![redbox](/static/images/2021-07-27-BowShock/redbox.png)
 
 Hmm, let me try inputting non `#` numbers as the amount of plasma. Seems like a good place to start.
 
-![BowShock%2091f32cd309714fc8960fc3bb1b1a32d1/Untitled%202.png](/images/Bowshock-images/solution.png)
+![solution](/static/images/2021-07-27-BowShock/solution.png)
 
 Excellent! Turns out, through trial and error, keying in the numbers in the sections for `sipush` in order of which they appear is the solution. Got the flag!
 
