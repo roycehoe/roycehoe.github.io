@@ -2,7 +2,7 @@
 name: Royce Hoe
 avatar: /static/images/avatar.png
 occupation: sometimes writes code
-company:
+company: Full-stack Engineer
 ---
 
 There is an old saying, “You should leave your job when you feel that you have stopped growing”. It took me a year in HR consulting to reach this stage.
