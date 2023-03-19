@@ -1,7 +1,7 @@
 ---
 title: 'Classes: A wrapper for Structs'
 tags: [Python, Pydantic, OOP]
-date: '2021-02-01'
+date: '2022-09-10'
 draft: false
 summary: 'Strong typing with Python'
 ---
