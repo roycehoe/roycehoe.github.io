@@ -2,7 +2,6 @@
 name: Royce Hoe
 avatar: /static/images/avatar.png
 occupation: sometimes writes code
-company: Full-stack Engineer
 ---
 
 There is an old saying, “You should leave your job when you feel that you have stopped growing”. It took me a year in HR consulting to reach this stage.
@@ -15,4 +14,4 @@ The hours spent untangling spaghetti code taught me the value of writing clean a
 
 Even now, whenever I build something, something might fail. Bugs will show up, my container builds will not succeed, and I will find myself in familiar territory, rummaging through the forums on stackoverflow. But those failures serve as a humble reminder there is still room for me to grow as a software developer. There is an old saying, “You should leave your job when you feel that you have stopped growing”. I believe that I might have found the career that I was looking for.
 
-This is a blog that holds a collection of my failures,disappointments, frustrations, and on rare occasions, my triumphs.
+This is a blog that holds a collection of my failures, disappointments, frustrations, and on rare occasions, my triumphs.
