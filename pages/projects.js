@@ -13,6 +13,7 @@ export default function Projects() {
             Projects
           </h1>
         </div>
+        <p className="pt-6"> Check out my github. </p>
         {/* <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
             {projectsData.map((d) => (
